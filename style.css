@@ -1,0 +1,14 @@
+div {
+    height: 100px;
+    padding: 10px 0px 0px 5px;
+    margin-bottom: 10px; 
+}
+
+.bandera-amarilla-uno {
+    background-color:darkgoldenrod
+    
+}
+
+.bandera-gris-uno {
+    background-color:dimgrey;
+}
